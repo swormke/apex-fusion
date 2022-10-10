@@ -1,0 +1,8 @@
+Fallback OFF
+Set OFF
+If Output PWRHD-SCHED = OFF Then ON
+If Output vFeed-A = ON Then OFF
+If FeedA 001 Then OFF
+If FeedB 001 Then OFF
+If FeedC 001 Then OFF
+If FeedD 001 Then OFF
